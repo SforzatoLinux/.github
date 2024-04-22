@@ -1,6 +1,6 @@
 # :wave: SforzatoLinux公式Githubへようこそ!
 
-![open.Yellow.os](https://user-images.githubusercontent.com/52069677/202466050-69e23a14-e6e7-4cf3-a9e6-e20885340676.png "open.Yellow.os")
+![Sforzatolinux]("")
 
 
 ## :books: SforzatoLinuxとは何?"
